@@ -9,3 +9,7 @@ VALUES
 INSERT INTO salario_classe(salario, nivel)
 VALUES
 (6700, 'plena');
+
+INSERT INTO salario_classe(salario, nivel)
+VALUES
+(2942, 'júnior');
